@@ -23,7 +23,7 @@ description: Otro blog sobre desarrollo de software
 
 # List of links in the navigation bar
 navbar-links:
-  Conóceme: "/es/aboutme"
+  Conóceme: "es/aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
