@@ -7,7 +7,7 @@ Si llegaste a esta página, y no sos un bot, gracias por tomarte el tiempo para 
 
 Mi nombre es Darío Kondratiuk, y soy developer.
 
-**Hace mucho tiempo**
+**Hace mucho tiempo atrás**
 
 Tal vez no sea capaz de decir que programé mi Commodore 64 en los 80s, pero sí puedo decir que escribí mis primeras líneas de C# allá en el año 2001, cuando se lanzó el .NET Framework 1.0 Beta 2. 
 
