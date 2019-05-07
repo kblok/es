@@ -1,28 +1,30 @@
 ---
 layout: page
-title: About me
+title: Conoceme
 ---
 
-If you got to this page, and you are not a bot, thank you for taking the time to read about me!
+Si llegaste a esta página, y no sos un bot, gracias por tomarte el tiempo para leer acerca de mi!
 
-My name is Darío Kondratiuk, and I’m a software developer.
+Mi nombre es Darío Kondratiuk, y soy developer.
 
-**Early days**
+**Hace mucho tiempo**
 
-I may not be able to say that I hacked my Commodore 64 in the 80s, but I can say that I wrote my first lines of C# code back in 2001, when the .NET Framework 1.0 Beta 2 was released.
+Tal vez no sea capaz de decir que programé mi Commodore 64 en los 80s, pero sí puedo decir que escribí mis primeras líneas de C# allá en el año 2001, cuando se lanzó el .NET Framework 1.0 Beta 2. 
 
-I worked on enterprise projects for 10+ years. Those were fun days. I started playing with ORMs back in 2004 (Entity Framework wasn't even in alpha). I started using OJB.NET, then turned into [DomainObjects.NET](https://sourceforge.net/projects/domainobjects/), which was a port of [OJB](https://db.apache.org/ojb/). After a few months using it on many projects, I ended up becoming part of the maintainers team. My most important contributions were implementing the Oracle provider and the composite primary key support. I was also an early adopter of [Telerik](https://www.telerik.com/) products. It was super fun playing with Ajax panels a few years before ASP.NET AJAX came to light.
+Trabajé en proyectos empresariales por más de 10 años. Fueron años divertidos. En 2004 comencé a probar ORMs, Entity Framework no era ni siquiera un alpha. Empecé usando OJB.NET, que luego se convirtió en [DomainObjects.NET](https://sourceforge.net/projects/domainobjects/), que era un port de [OJB](https://db.apache.org/ojb/). Luego de varios meses usándolo me uní al equipo de manteiners. Mis principales contribuciones fueron el suporte a Primary Keys compuestas y el provider para Oracle. También utilicé los producots de [Telerik](https://www.telerik.com/) es sus primeras días. Fue muy divertido jugar con paneles Ajax algunos años antes que ASP.NET AJAX saliese a la luz.
 
-**The public web**
+**La Web pública**
 
-Joining MultiTracks.com in 2015 was a life changer. I started working as a remote developer, which is no a small change. MultiTracks.com helped me to get into what I call the real public web. I had to learn about how to deal with massive concurrency, hackers, caching, time zones, etc. It was fun contributing to projects which involved internationalization, multi-currency and multi-payment support among many other cool features.
+Unirme a MultiTracks.com en 2015 fue un cambio rotundo en mi vida. Empecé a trabajar remoto, que no es un cambio menor. MultiTracks.com me ayudó a introducirme en lo que yo llamo la web pública. Tuve que aprender a lidear con alta concurrencia, hackers, caching, time zones, etc. Fue muy divertido contribuir a proyectos que involucraron internacionalización, soporte a múltiples monedas, multiples tipos de pago entre muchas otras cosas divertidas.
 
 **Side projects**
 
-I'm passionate about software. I love learning something new every day. I love Node JS for scripting. I had fun creating a [bot](https://github.com/kblok/TelegramBotFriend) using Python. I coded a [content generator](https://github.com/kblok/RNN-bible-generator) using TensorFlow. And my last project, which I'm super excited about, is [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), a C# port of Google's [puppeteer](https://github.com/GoogleChrome/puppeteer) library.
+Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hacer scripting. Me divertó mucho creando un [bot](https://github.com/kblok/TelegramBotFriend) usando Pytong. Tambié hice un [generador de contenido](https://github.com/kblok/RNN-bible-generator) usando TensorFlow. Pero mi principal proyecto, del que estoy super contento, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
 
-**Final words**
+Amo el open source. Me gusta contribuir en proyectos open source y también ayudar para cada vez más gente pueda ser parte de esto.
 
-Wrapping up, if we meet in the future, the only thing you’ll need to know about me is that I like [IPAs](https://en.wikipedia.org/wiki/India_pale_ale).
+**No lo hagamos más largo**
 
+Para finalizar, si nos encontramos en un futuro, lo uno que tenes que saber es que me gustan las [IPAs](https://en.wikipedia.org/wiki/India_pale_ale).
 
+No pares de codear!
