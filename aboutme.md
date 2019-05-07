@@ -19,7 +19,7 @@ Unirme a MultiTracks.com en 2015 fue un cambio rotundo en mi vida. Empecé a tra
 
 **Side projects**
 
-Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hacer scripting. Me divertí mucho creando un [bot](https://github.com/kblok/TelegramBotFriend) usando Pyton. Tambié hice un [generador de contenido](https://github.com/kblok/RNN-bible-generator) usando TensorFlow. Pero mi principal proyecto, del que estoy super contento, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
+Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hacer scripting. Me divertí mucho creando un [bot](https://github.com/kblok/TelegramBotFriend) usando Pyton. Tambié hice un [generador de contenido](https://github.com/kblok/RNN-bible-generator) usando TensorFlow. Pero mi principal proyecto, del que estoy supoer orgulloso, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
 
 Amo el open source. Me gusta contribuir en proyectos open source y también ayudar para cada vez más gente pueda ser parte de esto.
 
