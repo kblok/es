@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conoceme
+title: Conóceme
 ---
 
 Si llegaste a esta página, y no sos un bot, gracias por tomarte el tiempo para leer acerca de mi!
