@@ -66,7 +66,7 @@ No hay ningún país de habla española en el top 10. España está en la posici
 
 ## Bienvenidos a esta aventura
 
-Voy a estar traduciendo en el transcurso de los próximos meses todos los posts que tengo en inglés. Aparte, me gustaría empezar a hacer videos en español apoyando a cada uno de los posts que publique.
+En el transcurso de los próximos meses voy a estar traduciendo todos los posts que tengo en inglés. Aparte, me gustaría empezar a hacer videos en español apoyando a cada uno de los posts que publique.
 
 Así que, si ven que no publico nada por los próximos dos meses, por favor haganmelo saber!
 
