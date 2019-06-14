@@ -15,7 +15,9 @@ Parte de esta nueva aventura es también poder hacer videos en español. Así qu
 ## ¿Por qué es importante participar en la comunidad?
 
 Decidí ser un miembro activo de [Stack Overflow](www.stackoverflow.com) en mayo de 2017. Cuando digo activo, me refiero a que tomé la decisión de proactivamente tratar de responder preguntas.  
+
 Después de un mes, y unas 30 respuestas, me sorprendió ver que Stack Overflow me ponía en el top 10% en [ASP.NET](https://stackoverflow.com/questions/tagged/asp.net) y [C#](https://stackoverflow.com/questions/tagged/c%23). También estaba en el 20% en SQL Server y jQuery (ok no debí haber mencionado jQuery), donde no había respondido ni 10 preguntas en cada tópico.  
+
 ¿Cómo puede ser posible? ¿Era acaso un gurú de .NET escondido y la comunidad estaba ansiosa por recibir mi conocimiento? No lo creo. Yo creo que simplemente **no participamos (lo suficiente) en la comunidad**.
   
 ![meme1](https://i.imgflip.com/22wert.jpg)
@@ -53,7 +55,9 @@ No me quiero olvidar de [Gervasio](https://twitter.com/g3rv4). Es genial encontr
 ## Se habla español
 
 Hace un año atrás mi opinión sobre en qué idioma un blog debería ser escrito era clara: “El blog tiene que ser en inglés”. Gran parte de los contenidos están en inglés y "un desarrollador debería saber inglés para acceder a todo el contenido disponible".  
+
 Hace unos meses tuve un [pequeño debate](https://twitter.com/hardkoded/status/1105157744259158016) con [Gervasio](https://twitter.com/g3rv4) y [Gonzalo Bianchi](https://twitter.com/gonzabianchi). En ese debate, Gonzalo defendía el uso del español como herramienta para ayudar a los que comienzan a desarrollar. Él afirmaba que, generando contenido en español, ayudaríamos a aquellos que no están acostumbrados (todavía) a leer en inglés. En su momento, si bien su idea me pareció entendible, yo seguía entendiendo que lo más importante para un blog era tener **mayor impacto**.  
+
 Pero esa idea siguió resonando en mi cabeza. Y un día decidí ver de qué países venían las visitas a mi blog.
 
 ![viewers](http://www.hardkoded.com/es/img/hagamos-comunidad/viewers.png)
