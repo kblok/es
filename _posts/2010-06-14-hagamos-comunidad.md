@@ -68,7 +68,7 @@ No hay ningún país de habla española en el top 10. España está en la posici
 
 En el transcurso de los próximos meses voy a estar traduciendo todos los posts que tengo en inglés. Aparte, me gustaría empezar a hacer videos en español apoyando a cada uno de los posts que publique.
 
-Así que, si ven que no publico nada por los próximos dos meses, por favor haganmelo saber!
+Así que, si ven que no publico nada por los próximos dos meses, haganmelo saber por favor!
 
 Por ultimo, pueden seguir mis cuentas de Twitter, [@kblok](https://www.twitter.com/kblok) en español (y no tan profesional) y [@hardkoded](https://www.twitter.com/hardkoded), mi cuenta más seria en ingles.
 
