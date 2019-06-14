@@ -14,7 +14,7 @@ Parte de esta nueva aventura es también poder hacer videos en español. Así qu
 
 ## ¿Por qué es importante participar en la comunidad?
 
-Decidí ser un miembro activo de [Stack Overflow](www.stackoverflow.com) en mayo de 2017. Cuando digo activo, me refiero a que tomé la decisión de proactivamente tratar de responder preguntas.  
+Decidí ser un miembro activo de [Stack Overflow](https://www.stackoverflow.com) en mayo de 2017. Cuando digo activo, me refiero a que tomé la decisión de proactivamente tratar de responder preguntas.  
 
 Después de un mes, y unas 30 respuestas, me sorprendió ver que Stack Overflow me ponía en el top 10% en [ASP.NET](https://stackoverflow.com/questions/tagged/asp.net) y [C#](https://stackoverflow.com/questions/tagged/c%23). También estaba en el 20% en SQL Server y jQuery (ok no debí haber mencionado jQuery), donde no había respondido ni 10 preguntas en cada tópico.  
 
@@ -24,11 +24,11 @@ Después de un mes, y unas 30 respuestas, me sorprendió ver que Stack Overflow 
   
 Suelo recibir este tipo de comentarios cada vez que digo que soy activo en Stack Overflow:
 
->Entonces... ¿Vas a Stack Overflow a responder preguntas? Vas ahi buscando por preguntas... para contestar?
+>Entonces... ¿Vas a Stack Overflow a responder preguntas? ¿Vas ahí buscando preguntas... para contestar?
 
 Correcto
 
->Está bueno... pero la mayoría de las preguntas son tontas... ¿Te pones a responder preguntas tontas?
+>Está bueno... pero la mayoría de las preguntas son tontas... ¿Te ponés a responder preguntas tontas?
 
 Exacto. Yo mismo he hecho preguntas tontas en mi vida, y las voy a seguir haciendo.
 
@@ -37,14 +37,14 @@ Exacto. Yo mismo he hecho preguntas tontas en mi vida, y las voy a seguir hacien
 No creo que sea porque seamos una comunidad egoísta. Creo que somos todo lo contrario.
 El problema no es de tiempo, es de hábito. **Muchos de nosotros simplemente no tenemos el hábito de participar en la comunidad.**
 
-Pensá sobre el último problema que tuviste que resolver. Fuiste a ese lugar llamado internet, y estoy seguro que terminaste leyendo una pregunta (varias preguntas probablemente) en Stack Overflow, o en un blog escrito escrito por algún developer. ¿Y adivina que? Esa respuesta que salvó tu día, ese post que te ahorró 16 horas sumergido en un problema complejo (o error tonto) fue escrito por gente como vos y yo, gente que se tomó el tiempo de sentarse y contribuir a la comunidad.
+Pensá sobre el último problema que tuviste que resolver. Fuiste a ese lugar llamado internet, y estoy seguro que terminaste leyendo una pregunta (varias preguntas probablemente) en Stack Overflow, o en un blog escrito escrito por algún developer. ¿Y adiviná que? Esa respuesta que salvó tu día, ese post que te ahorró 16 horas sumergido en un problema complejo (o error tonto) fue escrito por gente como vos y yo, gente que se tomó el tiempo de sentarse y contribuir a la comunidad.
 
 Yo sé lo que debes estar pensando ahora, y es verdad. No es sólo acerca de actitudes altruistas. Esta exposición pública ayuda a construir una reputación y a crecer en tu carrera.
 Pero, más allá de eso, nosotros necesitamos tu conocimiento. Necesitamos tus preguntas. Necesitamos tus respuestas. Necesitamos tu blog. **Necesitamos que contribuyas**.
 
 ## Software es un deporte de equipo
 
-Si no tienes amigos, o colegas que te ayudan a crecer en tu carrera, encontralos **AHORA**!
+Si no tenés amigos, o colegas que te ayuden a crecer en tu carrera, encontralos **AHORA**!
 
 No estaría escribiendo este blog si no fuera por [Ezequiel Gioia](http://blog.gioos.com/). Él siempre está un paso adelante. El me compartió el audio book de [Soft Skills](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397), que fue el disparador de muchísimas cosas que hoy hago por la comunidad.
 
@@ -62,7 +62,7 @@ Pero esa idea siguió resonando en mi cabeza. Y un día decidí ver de qué paí
 
 ![viewers](http://www.hardkoded.com/es/img/hagamos-comunidad/viewers.png)
 
-No hay ningún país de habla española en el top 10. España está en la posición 16 y México en la posición 30. Esto me mostró que, si bien generando contenido en inglés vamos a tener mayor impacto, podemos ser de gran ayuda a la comunidad hispano parlante generando contenido en español.
+No hay ningún país de habla española en el top 10. España está en la posición 16 y México en la posición 30. Esto me mostró que, si bien generando contenido en inglés podemos tener mayor impacto, podemos ser de gran ayuda a la comunidad hispano parlante generando contenido en español.
 
 ## Bienvenidos a esta aventura
 
