@@ -1,7 +1,7 @@
 ---
 title: Hagamos Comunidad!
 tags: general
-permalink: /es/blog/hagamos-comunidad
+permalink: /blog/hagamos-comunidad
 ---
 
 Allá por enero de 2018 arrancaba la versión en inglés de este blog. El primer post fue, obviamente, un [Hello World](http://www.hardkoded.com/blog/hello-world). Pero yo no quería un simple post de introducción. Quería un post que fuese un disparador para hablar sobre la importancia de que todos participemos en la comunidad.
