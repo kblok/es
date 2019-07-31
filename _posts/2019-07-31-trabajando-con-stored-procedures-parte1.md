@@ -65,12 +65,14 @@ Si no encontrás un LocalDB ahí, podés ver
 [acá](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb) cómo instalarlo. Hay otras versiones que podés instalar, por ejemplo: podes instalar una instancia completa del [Microsoft SQL Server Developer Edition](https://blogs.technet.microsoft.com/dataplatforminsider/2016/03/31/microsoft-sql-server-developer-edition-is-now-free/) de forma gratuita.
 
 ### Pros
-*Ya tenés instalado LocalDB, y está listo para usar.
+
+* Ya tenés instalado LocalDB, y está listo para usar.
 * Como el nombre lo dice, es local, no necesitas VPN ni acceso a un servidor remoto.
 * Una base de datos local va a hacer más rápido tu entorno de desarrollo, en especial si trabajás remoto.
 
 ### Cons
-*Ya sea que uses LocalDB o SQL Server Developer Edition, estamos hablando de un proceso más corriendo en tu computadora, cosa que podría ponerla un poco más “pesada”.
+
+* Ya sea que uses LocalDB o SQL Server Developer Edition, estamos hablando de un proceso más corriendo en tu computadora, cosa que podría ponerla un poco más “pesada”.
 
 ## Un servidor local en Docker
 
