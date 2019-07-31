@@ -8,6 +8,7 @@ permalink: /blog/trabajando-con-stored-procedures-parte1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UX8kcg34nGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blogs/how-to-work-with-stored-procedures-and-not-die-trying)_
 
 ## ¿Cuál es el problema con las bases de datos?
 
@@ -85,3 +86,4 @@ Podés leer sobre como correr SQL Server en Docker [aquí](https://docs.microsof
 Espero que este post te haya dado un poco de esperanzas si estás trabajando con Stored Procedures. Pero no te pierdas el próximo post (Darío agregá el link acá una vez que lo hayas subido). En la parte dos vamos a ir al plato principal, vamos hablar sobre cómo integrar la base de datos en tu código con Visual Studio.
 
 No dejes de codear!
+
