@@ -4,7 +4,7 @@ tags: sqlserver
 permalink: /blog/trabajando-con-stored-procedures-parte1
 ---
 
-## ¿Muy largo para leer? Mira el video!
+## ¿Muy largo para leer? !Mirá el video!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UX8kcg34nGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
