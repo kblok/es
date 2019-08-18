@@ -26,7 +26,7 @@ El beneficio es obvio. Cuando tu pull request sea aceptado, no solo tu código v
 
 Encontré que Visual Studio tiene la solución (o el proyecto :p)  a este problema. Vamos a echar un vistazo.
 
-### Crear un Proyecto de base de datos
+## Crear un Proyecto de base de datos
 
 Vamos a usar nuestra vieja y conocida base de datos Northwind como ejemplo. Ahora vamos a Visual Studio, elegimos “New Project” y buscamos la opción “SQL Server Database Project”.
 
@@ -81,6 +81,7 @@ Si vamos a nuestro project de SQL vamos a ver todos los scripts que se generaron
 <img src="https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/working-with-stored-procedures/AddScriptsToProject2.png" height="200px">
  
 Cuando incluimos archivos en un proyecto, se agregan con el Build Action seteado en **Build** por default, pero como estos archivos son simplemente inserts necesitamos cambiarlos a **None**.
+
 <img src="https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/working-with-stored-procedures/DoNotBuildDataScripts.png" height="200px">
  
 Perfecto! Pero ahora, cómo usamos estos scripts? 
