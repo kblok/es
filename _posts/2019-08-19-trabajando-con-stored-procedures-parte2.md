@@ -18,7 +18,7 @@ En este post vamos a hablar sobre cómo integrar tu base de datos en tu código 
 
 # La base de datos es parte de tu código
 
-Incluso si vos no usas stored procedures, las definiciones de las tablas son parte de tu código. Ok, vos podrías decir: “Yo trabajo code first, no me importa la base de datos”, ok, perfecto, entonces este post no te va a ser de mucha ayuda.  
+Incluso si vos no usas stored procedures, las definiciones de las tablas son parte de tu código. Vos podrías decir: “Ok, pero yo trabajo code first, no me importa la base de datos”, perfecto, entonces este post no te va a ser de mucha ayuda.  
 Pero si vos sos un “database first” developer, las definiciones de las tablas deberían ser parte de tu código. Si vos agregás una nueva columna a una tabla, vas a necesitar crear un nuevo branch, agregar esa nueva columna en la definición de la tabla y commitear el cambio en el mismo branch donde vas a ser uso de la nueva columna.  
 El beneficio es obvio. Cuando tu pull request sea aceptado, no solo tu código va a integrarse, sino también el cambio en la base de datos.
 
