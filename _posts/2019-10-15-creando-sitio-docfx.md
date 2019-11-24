@@ -93,9 +93,9 @@ A parte, la home page y la API index page podrían haber tenido más links conec
 
 _Home del sitio_
 ![Primera Home](https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/5_first_home.png)
-_API Home page_
+_La Home de la API_
 ![FirstAPI](https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/6_first_api.png)
-_Some doc page_
+_La documentación de una clase_
 ![Doc Page](https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/7_first_doc.png)
 
 #### Fin del pomodoro 1
