@@ -20,7 +20,7 @@ Hace unos días encontré un video donde [Jarrod Overson](https://twitter.com/js
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDGiQ2cwFP4?start=500" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Esta fue mi cara después de mirar el video:
+Esta fue mi cara después de mirar el video:  
 ![Idea](https://media.giphy.com/media/B5AVgxf0OzlyE/giphy.gif)
 
 >Si el fue capaz de automatizar VS Code porque la app estaba hecha en Electron, ¿No deberíamos entonces ser capaces de automatizar la app de WhatsApp?
