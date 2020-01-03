@@ -6,7 +6,7 @@ permalink: /blog/cuento-async-void
  
 _Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blog/async-void-fairy-tale)_
 
-Dejame contarte una historia sobre async voids, SynchronizationContext y programación asincrónica.
+Dejame contarte una historia sobre async voids, SynchronizationContext y programación asincrónica.  
 Hace un tiempo recibí [un issue en Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp/issues/717) describiendo dos problemas:
 Puppeteer-Sharp crasheaba con excepciones que no podían ser atrapadas.
 Se reportaba un KeyNotFoundException tratando de obtener un [Frame](https://github.com/kblok/puppeteer-sharp/blob/master/lib/PuppeteerSharp/Frame.cs). 
@@ -189,7 +189,7 @@ Con
 await _frameManager.GetFrameAsync(someFrame);
 ```
 
-# Palabras finals
+# Palabras finales
 
 Si bien este post tiene muchas cosas muy específicas de Puppeteer-Sharp, creo que puede ofrecer algunos conceptos interesantes al momento de consumir eventos en forma asincrónica, y cómo resolverlo en tu librería.
 
