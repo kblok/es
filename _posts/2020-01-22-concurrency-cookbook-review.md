@@ -59,7 +59,7 @@ Resulta ser que el keyword `await` funciona no solo con una Task sino con cualqu
 
 Hay muchas cosas que nosotros damos por sentado cuando usamos async/await. Una de ellas es el manejo de errores.
 
-> Cuando un método async arroja o propaga una excepción, la excepción es asignada a la Task que se está retornando, marcando como `Faulted`, y por lo tanto `IsCompleted`, a la misma. Cuando se le hace un await a esa task, el operador await va a ver dicha excepción y la va a (re)lanzar manteniendo el stack trace original.
+> Cuando un método async arroja o propaga una excepción, la excepción es asignada a la Task que se está retornando, marcandola como `Faulted`, y por lo tanto `IsCompleted`, a la misma. Cuando se le hace un await a esa task, el operador await va a ver dicha excepción y la va a (re)lanzar manteniendo el stack trace original.
 
 Vamos a hablar más en profundidad sobre cómo funciona el `await` en el próximo post.
 
