@@ -75,7 +75,7 @@ Te ahorro ir a Google. `await Task.WhenAll(...)` no va a arrojar una `AggregateE
 
 Sobre  `Task.WhenAny`:
 
-> La tarea que retorna un `Task.WhenAny` nunca va a complietarse en estado `faulted` o `canceled`. Siempre va a retornar la primer Task que se complete, si dicha tarea se completó con una excepción, entonces la excepción no va a ser propagada a la Task que retorna el `Task.WhenAny`. Por esta razón, **siempre deberías aplicar el `await` a la Task que se completó**.
+> La tarea que retorna un `Task.WhenAny` nunca va a completarse en estado `faulted` o `canceled`. Siempre va a retornar la primer Task que se complete, si dicha tarea se completó con una excepción, entonces la excepción no va a ser propagada a la Task que retorna el `Task.WhenAny`. Por esta razón, **siempre deberías aplicar el `await` a la Task que se completó**.
 
 También tiene un tip muy interesante:
 
