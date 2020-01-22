@@ -20,7 +20,7 @@ Si bien solo estaba interesado en la sección de Async programming, aprender un 
 
 # Programación asincrónica vs procesamiento en paralelo
 
-Me encantó el primer capítulo. Este capítulo habla de conceptos simples pero muy importantes a la vez. Él explica conceptos como multithreading, procesamiento en paralelo, programación asincrónica y programación reactiva (no se si así se traduce reactive programming). Saber estos conceptos es super importante porque es una trampa en la que muchos (me incluyo) caemos/caímos. **La trampa está en pensar que estamos haciendo procesamiento en paralelo cuando en realidad estamos haciendo programación asincrónica**. Esta trampa se debe a que .NET usa la misma clase, la clase `Task` para trabajar tanto en paralelo como en programación asincrónica.
+Me encantó el primer capítulo. Este capítulo habla de cosas simples pero muy importantes a la vez. Él explica conceptos como multithreading, procesamiento en paralelo, programación asincrónica y programación reactiva (no se si así se traduce reactive programming). Tener en claro estos conceptos es super importante porque es una trampa en la que muchos (me incluyo) caemos/caímos. **La trampa está en pensar que estamos haciendo procesamiento en paralelo cuando en realidad estamos haciendo programación asincrónica**. Esta trampa se debe a que .NET usa la misma clase, la clase `Task` para trabajar tanto en paralelo como en programación asincrónica.
 
 > La trampa es pensar que estamos haciendo procesamiento en paralelo cuando en realidad estamos haciendo programación asincrónica.
 
