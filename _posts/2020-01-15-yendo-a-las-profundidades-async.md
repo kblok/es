@@ -1,5 +1,6 @@
 ---
 title: Yendo a las profundidades de la programación asyncrónica en C#
+subtitle: Don't speak Spanish? Checkout the [English version](http://www.hardkoded.com/blog/concurrency-cookbook-review)
 tags: csharp books
 permalink: /blog/yendo-a-las-profundidades-async
 ---
