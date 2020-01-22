@@ -11,10 +11,10 @@ Si no conoces a Steve Cleary te cuento, es un rock star del async. Su blog tiene
 Con esta reputación, yo sabía que [Concurrency in C# Cookbook](https://www.amazon.com/gp/product/B00KCY2CB4) tenía que ser mi primer libro. 
 El libro es un típico cookbook (libro de recetas), donde cada capítulo introduce un concepto y es seguido por una lista de recetas.
 
-A grandes rasgos, el libro cubre tres tópicos:
-Async/Parallel programming.
-DataFlows
-Rx (System.Reactive)
+A grandes rasgos, el libro cubre tres tópicos: 
+ * Async/Parallel programming.
+ * DataFlows
+ * Rx (System.Reactive)
 
 Si bien solo estaba interesado en la sección de Async programming, aprender un poco sobre DataFlows y Rx no estuvo nada mal.
 
