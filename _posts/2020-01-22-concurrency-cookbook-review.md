@@ -83,7 +83,7 @@ También tiene un tip muy interesante:
 
 # Tarea para el hogar
 
-El libro continúa hablando sobre DataFlow y Reactive. Pero te lo dejo a vos esa tarea.
+El libro continúa hablando sobre DataFlow y Reactive. Pero te lo dejo a vos para que lo leas. 
 Perfecto! Creo que aprendimos varios conceptos sobre programación asincrónica. En el próximo post vamos a ver qué lecciones podemos aprender de [Async in C# 5.0](https://www.amazon.com/Async-5-0-Unleash-Power/dp/1449337163).
 
 ¡No dejes de codear!
