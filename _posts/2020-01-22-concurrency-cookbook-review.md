@@ -22,7 +22,7 @@ Si bien solo estaba interesado en la sección de Async programming, aprender un 
 
 Me encantó el primer capítulo, porque habla de conceptos simples pero muy importantes a la vez. Él explica el significado de multithreading, procesamiento en paralelo, programación asincrónica y programación reactiva (no se si así se traduce reactive programming). Saber estos conceptos es super importante porque es una trampa en la que muchos (me incluyo) caemos/caímos. **La trampa está en pensar que estamos haciendo procesamiento en paralelo cuando en realidad estamos haciendo programación asincrónica**. Esta trampa se debe a que .NET usa la misma clase, la clase `Task` para trabajar tanto en paralelo como en programación asincrónica.
 
-> Esta trampa es pensar que estamos haciendo procesamiento en paralelo cuando en realidad estamos haciendo programación asincrónica.
+> La trampa es pensar que estamos haciendo procesamiento en paralelo cuando en realidad estamos haciendo programación asincrónica.
 
 También nos recuerda que:
 
@@ -34,18 +34,18 @@ Otros concepto muy interesante en este capítulo es que la programación asincr�
 
 # Introducción a la programación sincrónica
 
-Hay muchos conceptos importantes en este capítulo. El primero, y el más importante, es que los métodos no son asíncronos, la clase `Task` es asíncrona. El hecho que un método tenga el modificador async no lo hace asíncrono, el retornar una `Task` (una promesa) es lo que lo hace asíncrono.
+Hay muchos conceptos importantes en este capítulo. El primero, y el más importante, es que los métodos no son asíncronos, la clase `Task` es asíncrona. El hecho que un método tenga el modificador `async` no lo hace asíncrono, el retornar una `Task` (una promesa) es lo que lo hace asíncrono.
 
 > Los métodos no son asíncronos, la clase `Task` lo es.
 
 Otro concepto interesante es que una llamada a un método async va a correr en forma sincrónica hasta que llegue al primer `await` de una Task incompleta. Esto lo pude probar [en este pequeño proyecto](https://github.com/kblok/async-programming-talk/blob/master/AwaitDemo/Program.cs). 
-Entonces si usás `await Task.WhenAny`, podrías pensar que las Tasks que le pasas al `When Any` van a correr en paralelo, bueno… no.
+Entonces si usás `await Task.WhenAny`, podrías pensar que las Tasks que le pasas al `WhenAny` van a correr en paralelo, bueno… no.
 
 > Las llamadas a métodos async van a ser sincrónicas hasta que lleguen al primer await de una Task incompleta.
 
 # Synchronization Context
 
-Leer sobre Synchronization Context era uno de mis objetivos, porque es algo que uno no ve, pero está ahí. Tus librerías pueden llegar a tener problemas en su comportamiento sino contemplar los diferentes synchronizations contexts.
+Leer sobre Synchronization Context era uno de mis objetivos, porque es algo que uno no ve, pero está ahí. Tus librerías pueden llegar a tener problemas en su comportamiento sino contemplás los diferentes synchronizations contexts.
 
 > Tus librerías pueden llegar a tener problemas en su comportamiento sino contemplar los diferentes synchronizations contexts.
 
