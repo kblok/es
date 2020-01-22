@@ -4,12 +4,6 @@ tags: sqlserver
 permalink: /blog/trabajando-con-stored-procedures-parte1
 ---
 
-## ¿Muy largo para leer? !Mirá el video!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UX8kcg34nGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blogs/how-to-work-with-stored-procedures-and-not-die-trying)_
-
 ## ¿Cuál es el problema con las bases de datos?
 
 No voy a intentar venderte la idea de que los stored procedures son lo mejor, que todos deberían tirar sus ORMs a la basura y mover todo a la base de datos. Creo que cada equipo tiene que elegir la mejor herramienta que no solo los ayuda a resolver sus problemas sino que también los ayuda a ser más productivos.
@@ -19,6 +13,10 @@ Ya sea que hayas caído en un proyecto lleno de stored procedures, que seas un a
 He notado que a veces, incluso cuando tiene sentido usar un stored procedure, un developer no va a ir por ese camino simplemente porque no se siente productivo usando stored procedures.
 
 Generalmente esto sucede por alguno de los siguientes motivos:
+
+## ¿Muy largo para leer? !Mirá el video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UX8kcg34nGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Bases de datos compartidas
 Hay equipos que solo tienen una instancia de SQL Server con muchas versiones de la misma base de datos. Por ejemplo: Dev, Test, CI, etc. 

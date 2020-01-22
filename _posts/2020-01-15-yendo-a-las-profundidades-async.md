@@ -4,8 +4,6 @@ tags: csharp books
 permalink: /blog/yendo-a-las-profundidades-async
 ---
 
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blog/going-deeper-async)_
-
 Cuando empezás a hacer applicaciones asincrónicas en C# todo parece muy simple, casi mágico. Ponés un async acá algunos awaits allá y listo!
 
 ![bob loves async](https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/deeper-async/bob-loves-async.jpg)

@@ -4,8 +4,6 @@ tags: puppeteer-sharp csharp
 permalink: /blog/automatizando-edge-con-puppeteer
 ---
 
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blog/automating-microsoft-edge-puppteer-sharp)_
-
 Posiblemente hayas leído que Microsoft hizo pública la versión beta de su nuevo [Microsoft Edge](https://www.microsoftedgeinsider.com/es-es/), apodado Edgium, ya que está basado en Chromium. Tal vez esta no sea una buena pregunta para una entrevista técnica pero:
 
 >Si Puppeteer/Puppeteer-Sharp automatiza Chromium, y este nuevo Microsoft Edge está basado en Chromium, estoy podría significar que...

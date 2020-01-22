@@ -1,6 +1,5 @@
 ---
 title: Review del libro Concurrency in C#
-subtitle: Don't speak Spanish? Checkout the [English version](http://www.hardkoded.com/blog/concurrency-cookbook-review)
 tags: csharp books
 permalink: /blog/concurrency-cookbook-review
 ---

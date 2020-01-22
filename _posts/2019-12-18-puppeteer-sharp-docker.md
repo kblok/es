@@ -4,8 +4,6 @@ tags: puppeteer-sharp csharp
 permalink: /blog/puppeteer-sharp-docker
 ---
 
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blog/puppeteer-sharp-docker)_
-
 Suelo recibir muchas preguntas sobre cómo usar Puppeteer-Sharp en Docker. Vamos a ver si podemos lanzar un:
 
 ![Book](https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/puppeteer-sharp-docker/orly.png)

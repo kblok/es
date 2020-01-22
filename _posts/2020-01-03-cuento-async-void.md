@@ -4,8 +4,6 @@ tags: puppeteer-sharp csharp
 permalink: /blog/cuento-async-void
 ---
  
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blog/async-void-fairy-tale)_
-
 Dejame contarte una historia sobre async voids, SynchronizationContext y programación asincrónica.  
 Hace un tiempo recibí [un issue en Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp/issues/717) describiendo dos problemas:
 Puppeteer-Sharp crasheaba con excepciones que no podían ser atrapadas.

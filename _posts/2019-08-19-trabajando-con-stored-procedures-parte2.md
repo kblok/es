@@ -4,17 +4,15 @@ tags: sqlserver
 permalink: /blog/trabajando-con-stored-procedures-parte2
 ---
 
-# ¿Muy largo para leer? !Mirá el video!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ad1ygdRL90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blogs/how-to-work-with-stored-procedures-and-not-die-trying)_
-
 # ¿Cuál es el problema con las bases de datos?
 
 “¿Cuál es el problema con las bases de datos?”. Esa fue la pregunta que nos hicimos en el [primer post](https://www.hardkoded.com/es/blog/trabajando-con-stored-procedures-parte1). Allí hablamos de las principales trabas al momento de trabajar con stored procedures, y sobre cómo comenzar a descentralizar nuestras bases de datos de desarrollo.
 
 En este post vamos a hablar sobre cómo integrar tu base de datos en tu código fuente.
+
+# ¿Muy largo para leer? !Mirá el video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ad1ygdRL90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # La base de datos es parte de tu código
 

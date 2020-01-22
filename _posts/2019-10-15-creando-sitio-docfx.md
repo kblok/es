@@ -4,17 +4,15 @@ tags: docfx dotnet
 permalink: /blog/creando-sitio-docfx
 ---
 
-# ¿Muy largo para leer? !Mirá el video!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UZM7h4GE8bM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Don't speak Spanish? Checkout the [English version](https://www.hardkoded.com/blog/creating-docfx-site)_
-
 # Motivación
 
 Hay muchos tutoriales tratando de explicar cómo solucionar un problema siguiendo una lista de pasos, el problema es que **asumen que vos compartís el mismo contexto que el autor, y aún más importante, asumen que vos tenes éxito en cada uno de los pasos**.
 
 Yo quiero hacer algo distinto, quiero hacer un post en pseudo tiempo real, explicando como crear un sitio usando [DocFx](https://dotnet.github.io/docfx/). Nuestro contexto va a ser diferente, por su puesto, pero espero poder ayudarte a configurar tu sitio, explicándote no solo los paso correctos, sino también los problemas que voy encontrando, y que vos también podes llegar a encontrar.
+
+# ¿Muy largo para leer? !Mirá el video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZM7h4GE8bM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Introducción
 
