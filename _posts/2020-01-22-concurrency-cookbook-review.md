@@ -65,7 +65,7 @@ Vamos a hablar más en profundidad sobre cómo funciona el `await` en el próxim
 
 # Conceptos básicos de la programación asincrónica
 
-Me gustó esta sección porque nos da algunos consejos y cosas a considerar cuando usamos la librería `System.Threading.Tasks`.
+En esta sección Steve nos da algunos consejos y cosas a considerar cuando usamos la librería `System.Threading.Tasks`.
 
 Sobre `Task.WhenAll`:
 
