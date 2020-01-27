@@ -6,9 +6,8 @@ permalink: /blog/es-hora-de-playwright
 
 Si usás puppeteer o puppeteer-sharp seguro que debes estar tan emocionado como yo con el anuncio de [Playwright](https://github.com/microsoft/playwright). Playwright va a llevar la automatización de browsers a un nuevo nivel.
 
-> Playwright está enfocado en la automatización multi-browser y multi-plataforma, de una manera confiable, completa y veloz. Nuestro primer objetivo con Playwright es mejorar el testing de UI automatizado, eliminando inestabilidades y mejorando los tiempos de ejecución, ofreciendo detalles sobre el browser que se está utilizando.
-
 _Descripción del proyecto en GitHub_
+> Playwright está enfocado en la automatización multi-browser y multi-plataforma, de una manera confiable, completa y veloz. Nuestro primer objetivo con Playwright es mejorar el testing de UI automatizado, eliminando inestabilidades y mejorando los tiempos de ejecución, ofreciendo detalles sobre el browser que se está utilizando.
 
 El [equipo](https://github.com/microsoft/playwright/graphs/contributors) que tienen es impresionante, no veo la hora de ver todo lo que van a hacer con este proyecto.
 
