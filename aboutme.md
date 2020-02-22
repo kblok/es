@@ -19,7 +19,10 @@ Unirme a MultiTracks.com en 2015 fue un cambio rotundo en mi vida. Empecé a tra
 
 **Side projects**
 
-Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hacer scripting. Me divertí mucho creando un [bot](https://github.com/kblok/TelegramBotFriend) usando Pyton. Tambié hice un [generador de contenido](https://github.com/kblok/RNN-bible-generator) usando TensorFlow. Pero mi principal proyecto, del que estoy super orgulloso, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
+Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hacer scripting. Me divertí mucho creando un [bot](https://github.com/kblok/TelegramBotFriend) usando Pyton. Tambié hice un [generador de contenido](https://github.com/kblok/RNN-bible-generator) usando TensorFlow.  
+Uno de mis principales projectos, del que estoy super orgulloso, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
+
+El 2020 llegó con nuevos desafíos, [llegó la hora de Playwright](http://www.hardkoded.com/es/blog/es-hora-de-playwright), y así como hice con Puppeteer-Sharp, Playwright tendrá su versión .NET: [Playwright-Sharp](https://github.com/kblok/playwright-sharp).
 
 Amo el open source. Me gusta contribuir en proyectos open source y también ayudar para que cada vez más gente pueda ser parte de esto.
 
@@ -27,4 +30,4 @@ Amo el open source. Me gusta contribuir en proyectos open source y también ayud
 
 Para finalizar, si nos encontramos en un futuro, lo único que tenes que saber es que me gustan las [IPAs](https://en.wikipedia.org/wiki/India_pale_ale).
 
-No pares de codear!
+No dejes de codear!
