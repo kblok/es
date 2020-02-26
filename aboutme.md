@@ -23,7 +23,7 @@ Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hac
 
 Uno de mis principales projectos, del que estoy super orgulloso, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
 
-El 2020 llegó con nuevos desafíos, [llegó la hora de Playwright](http://www.hardkoded.com/es/blog/es-hora-de-playwright), y así como hice con Puppeteer-Sharp, Playwright tendrá su versión .NET: [Playwright-Sharp](https://github.com/kblok/playwright-sharp).
+El 2020 llegó con nuevos desafíos, [llegó la hora de Playwright](https://www.hardkoded.com/es/blog/es-hora-de-playwright), y así como hice con Puppeteer-Sharp, Playwright tendrá su versión .NET: [Playwright-Sharp](https://github.com/kblok/playwright-sharp).
 
 Amo el open source. Me gusta contribuir en proyectos open source y también ayudar para que cada vez más gente pueda ser parte de esto.
 

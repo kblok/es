@@ -2,6 +2,7 @@
 title: Una historia sobre async voids, eventos y manejo de errores
 tags: puppeteer-sharp csharp
 permalink: /blog/cuento-async-void
+cross-site-link: https://www.hardkoded.com/blog/async-void-fairy-tale
 ---
  
 Dejame contarte una historia sobre async voids, SynchronizationContext y programación asincrónica.  

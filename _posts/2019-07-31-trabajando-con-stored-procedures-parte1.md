@@ -2,6 +2,7 @@
 title: Trabajando con stored procedures - Parte 1
 tags: sqlserver
 permalink: /blog/trabajando-con-stored-procedures-parte1
+cross-site-link: https://www.hardkoded.com/blogs/how-to-work-with-stored-procedures-and-not-die-trying
 ---
 
 ## ¿Cuál es el problema con las bases de datos?

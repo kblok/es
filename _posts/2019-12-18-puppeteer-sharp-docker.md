@@ -2,6 +2,7 @@
 title: Usando Puppeteer-Sharp en Docker
 tags: puppeteer-sharp csharp
 permalink: /blog/puppeteer-sharp-docker
+cross-site-link: https://www.hardkoded.com/blog/puppeteer-sharp-docker
 ---
 
 Suelo recibir muchas preguntas sobre cómo usar Puppeteer-Sharp en Docker. Vamos a ver si podemos lanzar un:

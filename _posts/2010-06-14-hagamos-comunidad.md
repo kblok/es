@@ -2,9 +2,10 @@
 title: Hagamos Comunidad!
 tags: general
 permalink: /blog/hagamos-comunidad
+cross-site-link: https://www.hardkoded.com/blog/hello-world
 ---
 
-Allá por enero de 2018 arrancaba la versión en inglés de este blog. El primer post fue, obviamente, un [Hello World](http://www.hardkoded.com/blog/hello-world). Pero yo no quería un simple post de introducción. Quería un post que fuese un disparador para hablar sobre la importancia de que todos participemos en la comunidad.
+Allá por enero de 2018 arrancaba la versión en inglés de este blog. El primer post fue, obviamente, un [Hello World](https://www.hardkoded.com/blog/hello-world). Pero yo no quería un simple post de introducción. Quería un post que fuese un disparador para hablar sobre la importancia de que todos participemos en la comunidad.
 
 ¿Por qué hacer un blog? ¿No tenemos demasiados ya? ¿Y ahora encima videos?
 
@@ -60,7 +61,7 @@ Hace unos meses tuve un [pequeño debate](https://twitter.com/hardkoded/status/1
 
 Pero esa idea siguió resonando en mi cabeza. Y un día decidí ver de qué países venían las visitas a mi blog.
 
-![viewers](http://www.hardkoded.com/es/img/hagamos-comunidad/viewers.png)
+![viewers](https://www.hardkoded.com/es/img/hagamos-comunidad/viewers.png)
 
 No hay ningún país de habla española en el top 10. España está en la posición 16 y México en la posición 30. Esto me mostró que, si bien generando contenido en inglés podemos tener mayor impacto, podemos ser de gran ayuda a la comunidad hispano parlante generando contenido en español.
 

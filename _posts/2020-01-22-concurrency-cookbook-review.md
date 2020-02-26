@@ -2,6 +2,7 @@
 title: Review del libro Concurrency in C#
 tags: csharp books
 permalink: /blog/concurrency-cookbook-review
+cross-site-link: https://www.hardkoded.com/blog/concurrency-cookbook-review
 ---
 
 [Concurrency in C# Cookbook](https://www.amazon.com/gp/product/B00KCY2CB4) de [Steve Cleary](https://twitter.com/aSteveCleary) es el primero de una serie de libros que [me propuse leer para aprender más sobre programación asincrónica](https://www.hardkoded.com/es/blog/yendo-a-las-profundidades-async).

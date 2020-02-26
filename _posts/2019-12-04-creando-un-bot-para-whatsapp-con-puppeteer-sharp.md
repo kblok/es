@@ -2,6 +2,7 @@
 title: Creando bot para WhatsApp con Puppeteer-Sharp
 tags: puppeteer-sharp csharp
 permalink: /blog/creando-un-bot-para-whatsapp-con-puppeteer-sharp
+cross-site-link: https://www.hardkoded.com/blog/creating-whatsapp-bot-puppteer-sharp
 ---
 
 # Había una vez

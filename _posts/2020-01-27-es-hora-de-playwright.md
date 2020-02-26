@@ -2,6 +2,7 @@
 title: ¡Es hora de Playwright!
 tags: playwright
 permalink: /blog/es-hora-de-playwright
+cross-site-link: https://www.hardkoded.com/blog/its-playwright-time
 ---
 
 Si usás puppeteer o puppeteer-sharp seguro que debes estar tan emocionado como yo con el anuncio de [Playwright](https://github.com/microsoft/playwright). Playwright va a llevar la automatización de browsers a un nuevo nivel.

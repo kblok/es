@@ -2,6 +2,7 @@
 title: Creando un sitio para tu proyecto usando DocFX
 tags: docfx dotnet
 permalink: /blog/creando-sitio-docfx
+cross-site-link: https://www.hardkoded.com/blog/creating-docfx-site
 ---
 
 # Motivación

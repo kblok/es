@@ -2,6 +2,7 @@
 title: Yendo a las profundidades de la programación asyncrónica en C#
 tags: csharp books
 permalink: /blog/yendo-a-las-profundidades-async
+cross-site-link: https://www.hardkoded.com/blog/going-deeper-async
 ---
 
 Cuando empezás a hacer applicaciones asincrónicas en C# todo parece muy simple, casi mágico. Ponés un async acá algunos awaits allá y listo!
