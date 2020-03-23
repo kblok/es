@@ -21,7 +21,7 @@ Unirme a MultiTracks.com en 2015 fue un cambio rotundo en mi vida. Empecé a tra
 
 Me apasiona el software. Amo aprender algo nuevo cada día. Amo Node JS para hacer scripting. Me divertí mucho creando un [bot](https://github.com/kblok/TelegramBotFriend) usando Pyton. Tambié hice un [generador de contenido](https://github.com/kblok/RNN-bible-generator) usando TensorFlow.  
 
-Uno de mis principales projectos, del que estoy super orgulloso, es [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
+Uno de mis principales projectos, del que estoy super orgulloso, es [Puppeteer-Sharp](https://github.com/hardkoded/puppeteer-sharp), un port a C# del proyecto [puppeteer](https://github.com/GoogleChrome/puppeteer) de Google. Es fascinante ver como día a día cada vez se une más gente a utilizar esta librería.
 
 El 2020 llegó con nuevos desafíos, [llegó la hora de Playwright](https://www.hardkoded.com/es/blog/es-hora-de-playwright), y así como hice con Puppeteer-Sharp, Playwright tendrá su versión .NET: [Playwright-Sharp](https://github.com/kblok/playwright-sharp).
 

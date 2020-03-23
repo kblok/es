@@ -17,11 +17,11 @@ Yo quiero hacer algo distinto, quiero hacer un post en pseudo tiempo real, expli
 
 # Introducción
 
-Toda la API de [Puppeteer-Sharp](https://github.com/kblok/puppeteer-sharp/) está documentada utilizando [Comentarios XML](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/xmldoc/). Lo que queremos hacer es crear un sitio utilizando [DocFX](https://dotnet.github.io/docfx/) y [Github Pages](https://pages.github.com/). Por último, queremos que el sitio esté disponible en http://www.puppeteer-sharp.com.
+Toda la API de [Puppeteer-Sharp](https://github.com/hardkoded/puppeteer-sharp/) está documentada utilizando [Comentarios XML](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/xmldoc/). Lo que queremos hacer es crear un sitio utilizando [DocFX](https://dotnet.github.io/docfx/) y [Github Pages](https://pages.github.com/). Por último, queremos que el sitio esté disponible en http://www.puppeteer-sharp.com.
 
 # ¿Qué es lo que sabemos?
 
- * Sabemos que le podemos pedir al compilador que genere un archivo XML con la documentación. [Ya estamos haciendo eso](https://github.com/kblok/puppeteer-sharp/blob/master/lib/PuppeteerSharp/PuppeteerSharp.csproj#L40).
+ * Sabemos que le podemos pedir al compilador que genere un archivo XML con la documentación. [Ya estamos haciendo eso](https://github.com/hardkoded/puppeteer-sharp/blob/master/lib/PuppeteerSharp/PuppeteerSharp.csproj#L40).
  * También sabemos que queremos usar [DocFX](https://dotnet.github.io/docfx/tutorial/walkthrough/walkthrough_create_a_docfx_project.html).
 * Y que queremos que sea un proceso automático en nuestro CI.
 
