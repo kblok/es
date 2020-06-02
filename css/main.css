@@ -348,6 +348,13 @@ footer .theme-by {
   float: right;
   font-size: 14px;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 .post-preview .post-entry {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
 }
