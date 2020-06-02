@@ -1,7 +1,7 @@
 ---
 title: Soy Microsoft MVP!
 tags: community
-permalink: /blogs/soy-microsoft-mvp
+permalink: /blog/soy-microsoft-mvp
 cross-site-link: https://www.hardkoded.com/blog/im-microsoft-mvp
 ---
 
