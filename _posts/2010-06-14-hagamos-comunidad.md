@@ -1,6 +1,6 @@
 ---
 title: Hagamos Comunidad!
-tags: general
+tags: general community
 permalink: /blog/hagamos-comunidad
 cross-site-link: https://www.hardkoded.com/blog/hello-world
 ---
