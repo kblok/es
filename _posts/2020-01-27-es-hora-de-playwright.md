@@ -1,6 +1,6 @@
 ---
 title: ¡Es hora de Playwright!
-tags: playwright
+tags: playwright-sharp
 permalink: /blog/es-hora-de-playwright
 cross-site-link: https://www.hardkoded.com/blog/its-playwright-time
 ---
